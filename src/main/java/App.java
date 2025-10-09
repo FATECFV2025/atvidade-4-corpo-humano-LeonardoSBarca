@@ -55,4 +55,4 @@ public class App {
 //questao 3
 //quanto eu mudei o método setVolume para private, não é mais possível chamar ele no programa principal, por exemplo com c1.setVolume(10)
 //isso aconteceu porque o metodo private só pode ser usado dentro da própria classe
-//CONCLUSAO: o main nao poderia mais mexer no volumne.
+//CONCLUSAO: o main nao poderia mais mexer no volume.
